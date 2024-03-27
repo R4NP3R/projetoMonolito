@@ -1,0 +1,12 @@
+ranper\dao\ClienteDaoMock.class
+ranper\jpa\ClienteJpaDaoTest.class
+ranper\dao\VendaExclusaoJpaDAO.class
+ranper\dao\ProdutoDaoMock.class
+ranper\VendaDAOTest.class
+ranper\ClienteServiceTest.class
+ranper\AllTests.class
+ranper\ProdutoDAOTest.class
+ranper\jpa\ProdutoJpaDAOTest.class
+ranper\jpa\VendaJpaDAOTest.class
+ranper\ClienteDAOTest.class
+ranper\ProdutoServiceTest.class

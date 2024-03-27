@@ -46,6 +46,11 @@
 	    <artifactId>javax.batch-api</artifactId>
 	    <version>1.0.1</version>
 	</dependency>
+	<dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-core</artifactId>
+            <version>6.4.4.Final</version>
+        </dependency>
 </dependencies>
 <repositories>
 	<repository>
